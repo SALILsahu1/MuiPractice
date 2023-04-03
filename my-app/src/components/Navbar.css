@@ -1,0 +1,26 @@
+.navbarContainer{
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.searchBar{
+    padding: 10px 0px;
+    background-color: white;
+    width: 40%;
+    border-radius: 30px;
+}
+.iconContainer{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.avatar{
+    width: 30px;
+    height: 30px;
+}
+.iconContainer2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
